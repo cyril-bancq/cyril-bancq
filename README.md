@@ -26,13 +26,15 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p>
 	<p>Personal Contact</p>
-	<a href="mailto:cyril.bancq@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:cyril.bancq@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+	<a href="https://wa.me/0676988485"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/ </a>
+		<a href="https://github.com/cyril-bancq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+			<a href="https://www.instagram.com/cyril_bancq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<p>Professional Contact</p>
 	<a href="mailto:contact@devazur.fr"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/cyril-bancq"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0676988485"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	
+	</a>
 	<a href="https://www.linkedin.com/in/cyril-bancq-a662a2160/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/cyril_bancq/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 
@@ -49,15 +51,15 @@
    </a>
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+     <img alt="React" src="https://img.shields.io/badge/React%20-%35A6D8.svg?style=plastic&logo=react&logoColor=black">
    </a>
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Next" src="https://img.shields.io/badge/Next%20-%23F7DF1E.svg?style=plastic&logo=next-js&logoColor=black">
+     <img alt="Next" src="https://img.shields.io/badge/Next%20-%FFFFFF.svg?style=plastic&logo=next-js&logoColor=black">
    </a>
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Node" src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?style=plastic&logo=node-js&logoColor=black">
+     <img alt="Node" src="https://img.shields.io/badge/NodeJS%20-%008000.svg?style=plastic&logo=node-js&logoColor=black">
    </a>
 </p>
 
