@@ -42,21 +42,14 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Backend Development
 
 <p align="center"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-     &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
-   </a>
-     &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Next" src="https://img.shields.io/badge/Next%20-%23F7DF1E.svg?style=plastic&logo=nextjs&logoColor=black">
-   </a>
+
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="Node" src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?style=plastic&logo=nodejs&logoColor=black">
@@ -64,10 +57,6 @@
 	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
-   </a>
-	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="solidity" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
    </a>
 	&emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -83,12 +72,24 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+	     &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+   </a>
+     &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Next" src="https://img.shields.io/badge/Next%20-%23F7DF1E.svg?style=plastic&logo=nextjs&logoColor=black">
+   </a>
+		&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="solidity" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   </a>
 </p>
 
  ### 👉 Software & Tools
