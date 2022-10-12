@@ -51,15 +51,15 @@
    </a>
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React%20-%35A6D8.svg?style=plastic&logo=react&logoColor=black">
+     <img alt="React" src="https://img.shields.io/badge/React%20-%blue.svg?style=plastic&logo=react&logoColor=black">
    </a>
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Next" src="https://img.shields.io/badge/Next%20-%FFFFFF.svg?style=plastic&logo=next-js&logoColor=black">
+     <img alt="Next" src="https://img.shields.io/badge/Next%20-%white.svg?style=plastic&logo=next-js&logoColor=black">
    </a>
      &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="Node" src="https://img.shields.io/badge/NodeJS%20-%008000.svg?style=plastic&logo=node-js&logoColor=black">
+     <img alt="Node" src="https://img.shields.io/badge/NodeJS%20-%brightgreen.svg?style=plastic&logo=node-js&logoColor=black">
    </a>
 </p>
 
